@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Nurettin Erdoğan için NE profil görseli</title>
+  <desc id="desc">Koyu lacivert ve turkuaz tonlarında, NE harflerinden oluşan profesyonel profil görseli.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.56" stop-color="#0f2641"/>
+      <stop offset="1" stop-color="#0d5b62"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" rx="256" fill="url(#background)"/>
+  <circle cx="830" cy="214" r="360" fill="url(#glow)"/>
+  <circle cx="194" cy="846" r="300" fill="#38bdf8" opacity=".06"/>
+  <path d="M700 0h324v612L850 425z" fill="#fff" opacity=".025"/>
+  <path d="M782 0h242v535L905 410z" fill="#2dd4bf" opacity=".045"/>
+  <circle cx="512" cy="512" r="438" fill="none" stroke="#fff" stroke-opacity=".13" stroke-width="4"/>
+
+  <path d="M443 266l69-69 69 69" fill="none" stroke="#38bdf8" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M443 326l69-69 69 69" fill="none" stroke="#2dd4bf" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="512" y="650" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="292" font-weight="800" letter-spacing="-18" text-anchor="middle">NE</text>
+  <rect x="360" y="714" width="304" height="18" rx="9" fill="url(#accent)"/>
+</svg>
