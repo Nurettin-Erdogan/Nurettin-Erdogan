@@ -10,6 +10,10 @@
 
 > **English:** Computer Engineering student focused on backend engineering, AI/RAG and application security. I build deployable products with automated tests, CI and security-minded defaults. Open to internship and junior opportunities.
 
+<p align="center">
+  <a href="mailto:enurettin89@gmail.com"><strong>E-posta / Email</strong></a>
+</p>
+
 ## Öne çıkan projeler
 
 <table>
