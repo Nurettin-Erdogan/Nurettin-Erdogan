@@ -1,11 +1,25 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nurettin Erdoğan — ürün odaklı full-stack geliştirici" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Nurettin Erdoğan — Backend, AI/RAG ve Application Security" width="100%" />
 </p>
 
 <p align="center">
   <strong>Bilgisayar Mühendisliği öğrencisi · Backend / .NET · AI / RAG · Application Security</strong><br />
-  Güvenli API'ler, otomatik testler ve CI süreçleriyle çalışan ürünler geliştiriyorum. Staj ve junior fırsatlarına açığım.
+  Güvenli API'ler, yapay zekâ destekli ürünler, otomatik testler ve CI süreçleri üzerine çalışıyorum.
 </p>
+
+## Kısa profil
+
+| | |
+| --- | --- |
+| **Eğitim** | Bilgisayar Mühendisliği, 3. sınıf · Beklenen mezuniyet: **2027** |
+| **Hedef roller** | Backend / .NET · AI / RAG · Application Security |
+| **Fırsatlar** | Staj · Working Student · Junior |
+| **Çalışma şekli** | İstanbul · Remote / Hybrid |
+
+## Şu an ne üzerinde çalışıyorum?
+
+- **SmartDocs AI:** ASP.NET Core, React, PostgreSQL, Qdrant ve Ollama ile kaynaklı PDF soru-cevap akışı, kullanıcı sahipliği ve güvenli belge işleme.
+- **Ajan Kalkanı:** AI ajanlarının araç çağrılarını capability sözleşmeleriyle sınırlayan, default-deny politika motoru ve güvenlik regresyonlarını ölçen Agent CI yaklaşımı.
 
 ---
 
@@ -54,13 +68,20 @@
   </tr>
 </table>
 
-## Teknik odak
+## Teknik yetkinlikler
 
-- **Backend ve API:** ASP.NET Core, FastAPI, REST API, JWT, PostgreSQL
-- **AI / RAG:** Ollama, Qdrant, embedding, semantik arama, kaynaklı cevaplar, ajan güvenliği
-- **Modern web:** React, TypeScript, JavaScript, PWA, çevrimdışı deneyimler
-- **Güvenlik ve kalite:** Rate limiting, güvenlik başlıkları, CodeQL, otomatik testler, CI ve Docker
+- **Backend ve veri:** C# · ASP.NET Core · REST API · JWT · EF Core · PostgreSQL · SQL Server · Python · FastAPI
+- **AI / RAG:** Ollama · Qdrant · Embedding · Semantik arama · Kaynaklı cevaplar · AI agent güvenliği
+- **Frontend:** React · TypeScript · JavaScript · PWA · Responsive web arayüzleri
+- **DevOps ve kalite:** Docker · Git / GitHub · GitHub Actions · CodeQL · Playwright · Pytest · Otomatik test ve CI kalite kapıları
+- **Güvenlik:** Rate limiting · Güvenlik başlıkları · Kullanıcı/veri sahipliği kontrolleri · Default-deny politika yaklaşımı · Güvenli dosya yükleme
 
----
+## Çalışma yaklaşımım
+
+Bir projeyi yalnızca çalışan kod olarak değil; **canlı demo, anlaşılır dokümantasyon, testler, CI, güvenli varsayılanlar ve tekrarlanabilir kurulum** ile birlikte tamamlamaya odaklanıyorum.
+
+## İletişim
+
+GitHub üzerinden veya **[e-posta ile](mailto:enurettin89@gmail.com)** ulaşabilirsiniz.
 
 <sub>Projelerin canlı demoları ve kaynak depoları yukarıdaki kartlardan incelenebilir.</sub>
