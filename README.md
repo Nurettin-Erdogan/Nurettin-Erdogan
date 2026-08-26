@@ -82,6 +82,7 @@ Bir projeyi yalnızca çalışan kod olarak değil; **canlı demo, anlaşılır 
 
 ## İletişim
 
-GitHub üzerinden veya **[e-posta ile](mailto:enurettin89@gmail.com)** ulaşabilirsiniz.
+- **LinkedIn:** [Nurettin Erdoğan](https://www.linkedin.com/in/nurettin-e-7b5508289/)
+- **E-posta:** [enurettin89@gmail.com](mailto:enurettin89@gmail.com)
 
 <sub>Projelerin canlı demoları ve kaynak depoları yukarıdaki kartlardan incelenebilir.</sub>
