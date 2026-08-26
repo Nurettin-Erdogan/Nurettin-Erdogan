@@ -3,23 +3,14 @@
 </p>
 
 <p align="center">
-  <strong>Bilgisayar Mühendisliği öğrencisi · Backend / .NET · AI / RAG · Application Security</strong><br />
-  Güvenli API'ler, yapay zekâ destekli ürünler, otomatik testler ve CI süreçleri üzerine çalışıyorum.
+  <strong>Backend / .NET · AI / RAG · Application Security</strong><br />
+  Computer Engineering · Expected graduation: <strong>2027</strong> · Istanbul, Türkiye<br />
+  Open to <strong>Internship · Working Student · Junior</strong> opportunities
 </p>
 
-## Kısa profil
-
-| | |
-| --- | --- |
-| **Eğitim** | Bilgisayar Mühendisliği, 3. sınıf · Beklenen mezuniyet: **2027** |
-| **Hedef roller** | Backend / .NET · AI / RAG · Application Security |
-| **Fırsatlar** | Staj · Working Student · Junior |
-| **Çalışma şekli** | İstanbul · Remote / Hybrid |
-
-## Şu an ne üzerinde çalışıyorum?
-
-- **SmartDocs AI:** ASP.NET Core, React, PostgreSQL, Qdrant ve Ollama ile kaynaklı PDF soru-cevap akışı, kullanıcı sahipliği ve güvenli belge işleme.
-- **Ajan Kalkanı:** AI ajanlarının araç çağrılarını capability sözleşmeleriyle sınırlayan, default-deny politika motoru ve güvenlik regresyonlarını ölçen Agent CI yaklaşımı.
+<p align="center">
+  Güvenli API'ler, yapay zekâ destekli ürünler, otomatik testler ve CI süreçleriyle çalışan yazılımlar geliştiriyorum.
+</p>
 
 ---
 
@@ -67,6 +58,11 @@
     </td>
   </tr>
 </table>
+
+## Şu an odaklandığım çalışmalar
+
+- **SmartDocs AI:** ASP.NET Core, React, PostgreSQL, Qdrant ve Ollama ile kaynaklı PDF soru-cevap akışı, kullanıcı sahipliği ve güvenli belge işleme.
+- **Ajan Kalkanı:** AI ajanlarının araç çağrılarını capability sözleşmeleriyle sınırlayan, default-deny politika motoru ve güvenlik regresyonlarını ölçen Agent CI yaklaşımı.
 
 ## Teknik yetkinlikler
 
