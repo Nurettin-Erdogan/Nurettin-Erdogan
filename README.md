@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nurettin Erdoğan — Backend, AI/RAG ve Application Security" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Nurettin Erdoğan — Backend, AI/RAG ve uygulama güvenliği" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Backend / .NET · AI / RAG · Application Security</strong><br />
-  Computer Engineering · Expected graduation: <strong>2027</strong> · Istanbul, Türkiye<br />
-  Open to <strong>Internship · Working Student · Junior</strong> opportunities
+  <strong>Backend / .NET · AI / RAG · Uygulama güvenliği</strong><br />
+  Bilgisayar Mühendisliği · Tahmini mezuniyet: <strong>2027</strong> · İstanbul, Türkiye<br />
+  <strong>Staj · Yarı zamanlı · Junior</strong> fırsatlarına açığım
 </p>
 
 <p align="center">
@@ -23,8 +23,9 @@
         <img src="https://raw.githubusercontent.com/Nurettin-Erdogan/smartdocs-ai/main/frontend/public/social-preview.png" alt="SmartDocs AI uygulama önizlemesi" width="100%" />
       </a>
       <h3>SmartDocs AI</h3>
-      <p>PDF belgelerinden kaynaklı yanıtlar üreten; kimlik doğrulama, sahiplik sınırları, kalıcı veri ve RAG akışını birleştiren full-stack uygulama.</p>
+      <p>PDF belgelerinden kaynaklı yanıtlar üreten; kimlik doğrulama, sahiplik sınırları, kalıcı veri ve RAG akışını birleştiren tam yığın uygulama.</p>
       <p><code>React</code> <code>TypeScript</code> <code>.NET</code> <code>PostgreSQL</code> <code>Qdrant</code> <code>Ollama</code></p>
+      <p><strong>Kalite kanıtı:</strong> 26 backend + 14 frontend testi · CI · CodeQL · Docker</p>
       <p><a href="https://smartdocs-ai-henna.vercel.app/"><strong>Vitrin demosunu aç</strong></a> · <a href="https://github.com/Nurettin-Erdogan/smartdocs-ai">Kaynak kod</a></p>
     </td>
     <td width="50%" valign="top">
@@ -34,6 +35,7 @@
       <h3>Ajan Kalkanı</h3>
       <p>AI ajanlarının araç çağrılarını capability sözleşmeleriyle sınırlar; prompt injection etkisini yürütme katmanında azaltır ve güvenlik regresyonlarını CI’da ölçer.</p>
       <p><code>Python</code> <code>FastAPI</code> <code>Pytest</code> <code>Policy Engine</code> <code>Agent CI</code></p>
+      <p><strong>Kalite kanıtı:</strong> 54 test · 3 Python sürümü · güvenlik kalite kapısı · CodeQL</p>
       <p><a href="https://ajan-kalkani.vercel.app/"><strong>Sandbox demosunu aç</strong></a> · <a href="https://github.com/Nurettin-Erdogan/ajan-kalkani">Kaynak kod</a></p>
     </td>
   </tr>
@@ -45,6 +47,7 @@
       <h3>Türkiye Hava PWA</h3>
       <p>Türkiye il ve ilçeleri için gerçek hava verisini hızlı, erişilebilir, gizlilik odaklı ve kurulabilir bir PWA deneyiminde sunar.</p>
       <p><code>JavaScript</code> <code>PWA</code> <code>Open-Meteo</code> <code>Playwright</code></p>
+      <p><strong>Kalite kanıtı:</strong> 34 otomatik kontrol · çevrimdışı davranış · güvenlik başlıkları</p>
       <p><a href="https://turkiye-hava-pwa.vercel.app/"><strong>Canlı uygulamayı aç</strong></a> · <a href="https://github.com/Nurettin-Erdogan/weather-app">Kaynak kod</a></p>
     </td>
     <td width="50%" valign="top">
@@ -54,6 +57,7 @@
       <h3>Görev Listesi</h3>
       <p>Görev, öncelik, tarih, sekmeler arası senkronizasyon ve çevrimdışı kullanımı cihazda kalan sade bir planlama akışında toplar.</p>
       <p><code>JavaScript</code> <code>PWA</code> <code>Local-first</code> <code>Playwright</code></p>
+      <p><strong>Kalite kanıtı:</strong> 5 uçtan uca senaryo · PWA doğrulaması · CodeQL</p>
       <p><a href="https://gorev-listesi-pwa.vercel.app/"><strong>Canlı uygulamayı aç</strong></a> · <a href="https://github.com/Nurettin-Erdogan/todo-app">Kaynak kod</a></p>
     </td>
   </tr>
