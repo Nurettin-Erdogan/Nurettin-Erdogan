@@ -2,17 +2,12 @@
   <img src="./assets/profile-banner.svg" alt="Nurettin Erdoğan — ürün odaklı full-stack geliştirici" width="100%" />
 </p>
 
-**Bilgisayar Mühendisliği öğrencisi · Backend / AI / Security odaklı geliştirici · Staj ve junior fırsatlarına açık**
-
-Ürün fikrini çalışan, test edilmiş ve yayınlanmış bir web uygulamasına dönüştürüyorum. Sade ürün deneyimini; güvenli API’ler, ölçülebilir kalite ve sağlam yayın süreçleriyle birlikte ele alıyorum.
-
-**4 yayınlanmış proje/demo** · **Python / .NET / React / JavaScript** · **Otomatik test, CI ve güvenlik taraması**
-
-> **English:** Computer Engineering student focused on backend engineering, AI/RAG and application security. I build deployable products with automated tests, CI and security-minded defaults. Open to internship and junior opportunities.
-
 <p align="center">
-  <a href="mailto:enurettin89@gmail.com"><strong>E-posta / Email</strong></a>
+  <strong>Bilgisayar Mühendisliği öğrencisi · Backend / .NET · AI / RAG · Application Security</strong><br />
+  Güvenli API'ler, otomatik testler ve CI süreçleriyle çalışan ürünler geliştiriyorum. Staj ve junior fırsatlarına açığım.
 </p>
+
+---
 
 ## Öne çıkan projeler
 
@@ -61,14 +56,11 @@
 
 ## Teknik odak
 
-- **Backend ve API:** ASP.NET Core, FastAPI, REST API, JWT, PostgreSQL ve veri sahipliği sınırları
-- **AI / RAG:** Ollama, Qdrant, embedding, semantik arama, kaynaklı cevaplar ve ajan güvenliği
-- **Modern web:** React, TypeScript, JavaScript, PWA ve çevrimdışı deneyimler
-- **Güvenlik:** Varsayılan-ret politikaları, güvenli dosya yükleme, rate limiting, güvenlik başlıkları ve CodeQL
-- **Teslim kalitesi:** Otomatik testler, CI kalite kapıları, Docker, erişilebilirlik ve tekrarlanabilir kurulum
+- **Backend ve API:** ASP.NET Core, FastAPI, REST API, JWT, PostgreSQL
+- **AI / RAG:** Ollama, Qdrant, embedding, semantik arama, kaynaklı cevaplar, ajan güvenliği
+- **Modern web:** React, TypeScript, JavaScript, PWA, çevrimdışı deneyimler
+- **Güvenlik ve kalite:** Rate limiting, güvenlik başlıkları, CodeQL, otomatik testler, CI ve Docker
 
-## Çalışma standardım
+---
 
-Canlı demo veya güvenli vitrin demosu, anlaşılır kurulum, mimari kararlar ve doğrulanabilir testler projenin parçasıdır. Mobil görünümü, klavye erişimini, çevrimdışı davranışı, hata senaryolarını ve güvenli varsayılanları sonradan eklenen işler değil; ürünün temel gereksinimleri olarak ele alırım.
-
-Teknik ayrıntılar için proje kartlarındaki kaynak depolarını; hızlı değerlendirme için canlı uygulama ve vitrin demolarını inceleyebilirsiniz.
+<sub>Projelerin canlı demoları ve kaynak depoları yukarıdaki kartlardan incelenebilir.</sub>
