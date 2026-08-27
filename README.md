@@ -3,13 +3,20 @@
 </p>
 
 <p align="center">
-  <strong>Backend / .NET · AI / RAG · Uygulama güvenliği</strong><br />
   Bilgisayar Mühendisliği · Tahmini mezuniyet: <strong>2027</strong> · İstanbul, Türkiye<br />
   <strong>Staj · Yarı zamanlı · Junior</strong> fırsatlarına açığım
 </p>
 
 <p align="center">
   Güvenli API'ler, yapay zekâ destekli ürünler, otomatik testler ve CI süreçleriyle çalışan yazılımlar geliştiriyorum.
+</p>
+
+<p align="center">
+  <a href="https://smartdocs-ai-henna.vercel.app/"><strong>SmartDocs canlı demo</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://ajan-kalkani.vercel.app/"><strong>Ajan Kalkanı sandbox</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nurettin-e-7b5508289/"><strong>LinkedIn</strong></a>
 </p>
 
 ---

@@ -1,32 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
-  <title id="title">Nurettin Erdoğan için NE profil görseli</title>
-  <desc id="desc">Koyu lacivert ve turkuaz tonlarında, NE harflerinden oluşan profesyonel profil görseli.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">Nurettin Erdoğan profesyonel GitHub avatarı</title>
+  <desc id="description">Koyu lacivert zemin üzerinde beyaz NE monogramı ve turkuaz marka noktası</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.56" stop-color="#0f2641"/>
-      <stop offset="1" stop-color="#0d5b62"/>
+      <stop offset="0" stop-color="#0d1b2e"/>
+      <stop offset="1" stop-color="#050b14"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#2dd4bf"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2de3cf"/>
+      <stop offset="1" stop-color="#2d8cff"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".3"/>
-      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="letters" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eaf2f8"/>
+    </linearGradient>
+    <filter id="depth" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#00040a" flood-opacity="0.42"/>
+    </filter>
   </defs>
 
-  <rect width="1024" height="1024" rx="256" fill="url(#background)"/>
-  <circle cx="830" cy="214" r="360" fill="url(#glow)"/>
-  <circle cx="194" cy="846" r="300" fill="#38bdf8" opacity=".06"/>
-  <path d="M700 0h324v612L850 425z" fill="#fff" opacity=".025"/>
-  <path d="M782 0h242v535L905 410z" fill="#2dd4bf" opacity=".045"/>
-  <circle cx="512" cy="512" r="438" fill="none" stroke="#fff" stroke-opacity=".13" stroke-width="4"/>
+  <rect width="1024" height="1024" fill="url(#background)"/>
+  <path d="M750 -80L1085 826" stroke="#142944" stroke-width="135" opacity="0.28"/>
 
-  <path d="M443 266l69-69 69 69" fill="none" stroke="#38bdf8" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M443 326l69-69 69 69" fill="none" stroke="#2dd4bf" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
-
-  <text x="512" y="650" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="292" font-weight="800" letter-spacing="-18" text-anchor="middle">NE</text>
-  <rect x="360" y="714" width="304" height="18" rx="9" fill="url(#accent)"/>
+  <g filter="url(#depth)">
+    <text x="492" y="631" text-anchor="middle" fill="url(#letters)"
+      font-family="Segoe UI, Arial, sans-serif" font-size="384" font-weight="900" letter-spacing="-43">NE</text>
+    <path d="M337 327L523 697" stroke="url(#accent)" stroke-width="30" stroke-linecap="round"/>
+    <circle cx="753" cy="626" r="25" fill="url(#accent)"/>
+  </g>
 </svg>
