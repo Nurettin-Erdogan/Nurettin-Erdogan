@@ -12,11 +12,15 @@
 </p>
 
 <p align="center">
+  <a href="https://nurettin-erdogan-portfolio.enurettin89.chatgpt.site"><strong>Kişisel portföy</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://smartdocs-ai-henna.vercel.app/"><strong>SmartDocs canlı demo</strong></a>
   &nbsp;·&nbsp;
   <a href="https://ajan-kalkani.vercel.app/"><strong>Ajan Kalkanı sandbox</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/nurettin-e-7b5508289/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://nurettin-erdogan-portfolio.enurettin89.chatgpt.site/Nurettin_Erdogan_CV.pdf"><strong>Türkçe CV</strong></a>
 </p>
 
 ---
@@ -70,6 +74,23 @@
   </tr>
 </table>
 
+## Deneyim
+
+### Bilgi Teknolojileri Stajyeri
+
+**Darphane ve Damga Matbaası Genel Müdürlüğü** · Temmuz 2026 — Ağustos 2026
+
+- DBS uygulamasının fonksiyonel testlerini gerçekleştirdim.
+- GitLab üzerinde ayrıntılı hata raporları oluşturdum.
+- Kullanıcı, rol ve yetkilendirme süreçlerini test ettim.
+- Barkod okuyucu entegrasyon testlerine katıldım.
+- Yazılım ekibiyle hata doğrulama ve yeniden test süreçlerinde çalıştım.
+
+## Eğitim
+
+**İstanbul Atlas Üniversitesi** · Bilgisayar Mühendisliği · 2023 — Devam Ediyor  
+Tahmini mezuniyet: **2027**
+
 ## Şu an odaklandığım çalışmalar
 
 - **SmartDocs AI:** ASP.NET Core, React, PostgreSQL, Qdrant ve Ollama ile kaynaklı PDF soru-cevap akışı, kullanıcı sahipliği ve güvenli belge işleme.
@@ -89,6 +110,7 @@ Bir projeyi yalnızca çalışan kod olarak değil; **canlı demo, anlaşılır 
 
 ## İletişim
 
+- **Portföy:** [nurettin-erdogan-portfolio.enurettin89.chatgpt.site](https://nurettin-erdogan-portfolio.enurettin89.chatgpt.site)
 - **LinkedIn:** [Nurettin Erdoğan](https://www.linkedin.com/in/nurettin-e-7b5508289/)
 - **E-posta:** [enurettin89@gmail.com](mailto:enurettin89@gmail.com)
 
