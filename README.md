@@ -20,7 +20,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/nurettin-e-7b5508289/"><strong>LinkedIn</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://nurettin-erdogan-portfolio.enurettin89.chatgpt.site/Nurettin_Erdogan_CV.pdf"><strong>Türkçe CV</strong></a>
+  <a href="https://nurettin-erdogan-portfolio.enurettin89.chatgpt.site/Nurettin_Erdogan_CV.pdf"><strong>CV</strong></a>
 </p>
 
 ---
