@@ -2,19 +2,6 @@
   <img src="./assets/profile-banner.svg" alt="Nurettin Erdoğan" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Bilgisayar Mühendisliği öğrencisi · İstanbul, Türkiye</strong><br />
-  Backend, AI/RAG ve güvenli web uygulamaları geliştiriyorum.<br />
-  Staj · Yarı zamanlı · Junior fırsatlarına açığım
-</p>
-
-<p align="center">
-  <a href="https://nurettin-erdogan-portfolio.enurettin89.chatgpt.site">Kişisel portföy</a> ·
-  <a href="https://nurettin-erdogan-portfolio.enurettin89.chatgpt.site/Nurettin_Erdogan_CV.pdf">CV</a> ·
-  <a href="https://www.linkedin.com/in/nurettin-e-7b5508289">LinkedIn</a> ·
-  <a href="mailto:enurettin89@gmail.com">E-posta</a>
-</p>
-
 ---
 
 ## Öne çıkan projeler
