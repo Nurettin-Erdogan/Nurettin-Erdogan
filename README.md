@@ -35,7 +35,7 @@
       <a href="https://islik-cloud.vercel.app/">canlı</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://turkiye-hava-pwa.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/weather-app/main/docs/social-preview.png" alt="Türkiye Hava" width="100%" /></a>
+      <a href="https://turkiye-hava-pwa.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/weather-app/main/docs/social-preview.jpg" alt="Türkiye Hava" width="100%" /></a>
       <br /><br />
       <strong><a href="https://github.com/Nurettin-Erdogan/weather-app">Türkiye Hava</a></strong><br />
       İl/ilçe hava PWA · çevrimdışı · API anahtarı yok.<br />
