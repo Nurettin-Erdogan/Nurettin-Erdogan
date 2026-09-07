@@ -12,7 +12,7 @@
   ·
   <a href="https://github.com/Nurettin-Erdogan">GitHub</a>
   ·
-  <a href="https://www.linkedin.com/in/nurettinerdogan">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nurettin-e-7b5508289/">LinkedIn</a>
 </p>
 
 ---
