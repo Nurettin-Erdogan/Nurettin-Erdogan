@@ -54,7 +54,3 @@ Stack: C# / ASP.NET · Python / FastAPI · React · PostgreSQL · Docker · GitH
 Doğrulama, yetkilendirme akışları, barkod entegrasyonu.
 
 **Eğitim** — İstanbul Atlas Üniversitesi, Bilgisayar Mühendisliği · 2023–
-
----
-
-English: CS student in Istanbul. .NET, sourced RAG, AI-agent runtime security. Open to internships / junior backend roles.
