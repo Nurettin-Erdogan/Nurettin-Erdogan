@@ -3,7 +3,7 @@
 **Junior .NET · RAG · uygulama güvenliği**  
 İstanbul · staj / junior rollerine açığım
 
-[E-posta](mailto:enurettin89@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nurettin-e-7b5508289/) · [CV (PDF)](./assets/Nurettin_Erdogan_CV.pdf) · [Canlı demo](https://ajan-kalkani.vercel.app/)
+[E-posta](mailto:enurettin89@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nurettin-e-7b5508289/) · [CV (PDF)](./assets/Nurettin_Erdogan_CV.pdf)
 
 ---
 
