@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">Servis Defteri</title>
+  <desc id="desc">Talep, randevu ve iş takibi için servis yönetimi uygulaması.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#072b30"/><stop offset="1" stop-color="#0d5555"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#87f4dc"/><stop offset="1" stop-color="#29b6b0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)"/>
+  <circle cx="1090" cy="60" r="280" fill="none" stroke="#7ae3d0" stroke-opacity=".08" stroke-width="80"/>
+  <rect x="64" y="80" width="56" height="6" rx="3" fill="url(#accent)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="64" y="188" fill="#f0fdfa" font-size="64" font-weight="700">Servis Defteri</text>
+    <text x="68" y="244" fill="#b1ded7" font-size="28">Talep, randevu ve iş takibi</text>
+    <text x="68" y="475" fill="#80beb6" font-size="18" letter-spacing="3">SERVİS YÖNETİMİ</text>
+    <g transform="translate(690 105)">
+      <rect width="438" height="380" rx="24" fill="#f2faf8"/>
+      <rect x="24" y="24" width="390" height="48" rx="12" fill="#d9ede8"/>
+      <circle cx="48" cy="48" r="6" fill="#10766e"/>
+      <text x="66" y="55" fill="#175a55" font-size="19" font-weight="600">Servis akışı</text>
+      <path d="M57 125V294" stroke="#b8ddd5" stroke-width="3"/>
+      <g fill="#fff" stroke="#d4e8e2"><rect x="28" y="98" width="382" height="70" rx="14"/><rect x="28" y="186" width="382" height="70" rx="14"/><rect x="28" y="274" width="382" height="70" rx="14"/></g>
+      <g fill="#d9f4ea"><circle cx="63" cy="133" r="18"/><circle cx="63" cy="221" r="18"/><circle cx="63" cy="309" r="18"/></g>
+      <g fill="#12665b" font-size="17" font-weight="700" text-anchor="middle"><text x="63" y="139">1</text><text x="63" y="227">2</text><text x="63" y="315">3</text></g>
+      <g fill="#1d4541" font-size="21" font-weight="600"><text x="99" y="141">Talep oluştur</text><text x="99" y="229">Randevu planla</text><text x="99" y="317">İşi takip et</text></g>
+    </g>
+  </g>
+</svg>
