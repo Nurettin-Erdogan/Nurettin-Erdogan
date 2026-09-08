@@ -5,13 +5,13 @@
     <td width="50%" valign="top">
       <a href="https://ajan-kalkani.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/ajan-kalkani/main/src/ajan_kalkani/static/social-preview.png" alt="Ajan Kalkanı" width="100%" /></a>
       <h3>Ajan Kalkanı</h3>
-      <p>Yapay zekâ ajanlarının araç çağrılarını yetki kurallarıyla denetleyen güvenlik uygulaması.</p>
+      <p>Ajan araç çağrıları için yetki denetimi. Aynı senaryoyu korumasız ve korumalı çalıştır, kararları karşılaştır.</p>
       <p><a href="https://ajan-kalkani.vercel.app/">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/ajan-kalkani">Kaynak kod</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://smartdocs-ai-henna.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/smartdocs-ai/main/frontend/public/social-preview.png" alt="SmartDocs AI" width="100%" /></a>
       <h3>SmartDocs AI</h3>
-      <p>PDF belgeleri hakkında doğal dille sorulan soruları belge içeriğine dayanarak yanıtlayan yapay zekâ asistanı.</p>
+      <p>PDF üzerinde soru-cevap ve kaynak inceleme. Gemini destekli canlı sürüm, Ollama ile yerel kurulum.</p>
       <p><a href="https://smartdocs-ai-henna.vercel.app/">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/smartdocs-ai">Kaynak kod</a></p>
     </td>
   </tr>
