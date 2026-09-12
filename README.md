@@ -39,7 +39,7 @@ Canlıya alınmış, test ve CI süreçleri bulunan ürün odaklı projeler geli
 
 ### Teknolojiler
 
-C# · ASP.NET Core · React · Node.js · PostgreSQL · Docker
+C# · ASP.NET Core · React · TypeScript · JavaScript · Node.js · PostgreSQL · Docker · REST API · AI/RAG · Qdrant · PWA
 
 ### Deneyim ve eğitim
 
