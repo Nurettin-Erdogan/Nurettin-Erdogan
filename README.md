@@ -43,9 +43,12 @@ C# · ASP.NET Core · React · TypeScript · JavaScript · Node.js · PostgreSQL
 
 ### Deneyim ve eğitim
 
-**Darphane ve Damga Matbaası Genel Müdürlüğü** · Bilgi Teknolojileri Stajyeri<br>
-Temmuz–Ağustos 2026 · Yazılım testleri, yetkilendirme akışları ve barkod entegrasyonu testleri.
+**Darphane ve Damga Matbaası Genel Müdürlüğü** · Bilgi Teknolojileri Stajyeri  
+Temmuz–Ağustos 2026
 
-**İstanbul Atlas Üniversitesi** · Bilgisayar Mühendisliği · 2023–devam ediyor
+Kurumsal yazılım süreçlerinde yazılım testleri, yetkilendirme akışları ve barkod entegrasyonu testleri üzerinde çalıştım. ASP.NET Core ve SQL Server tabanlı uygulama süreçlerini inceleyerek test, hata ayıklama ve entegrasyon tarafında deneyim kazandım.
+
+**İstanbul Atlas Üniversitesi** · Bilgisayar Mühendisliği  
+2023–devam ediyor
 
 [CV](./assets/Nurettin_Erdogan_CV.pdf) · [E-posta](mailto:enurettin89@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nurettin-e-7b5508289/)
