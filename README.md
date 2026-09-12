@@ -1,3 +1,9 @@
+# Nurettin Erdoğan
+
+Bilgisayar Mühendisliği öğrencisiyim. Full-stack ve backend geliştirme; AI/RAG ve güvenlik odaklı uygulamalar üzerinde çalışıyorum.
+
+Canlıya alınmış, test ve CI süreçleri bulunan ürün odaklı projeler geliştiriyorum.
+
 ## Öne çıkan projeler
 
 <table>
