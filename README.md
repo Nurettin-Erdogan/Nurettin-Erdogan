@@ -12,7 +12,7 @@
       <a href="https://islik-cloud.vercel.app/"><img src="./assets/servis-defteri-cover.svg" alt="Servis Defteri — talep, randevu ve iş takibi" width="100%" /></a>
       <h3>Servis Defteri</h3>
       <p>Servis taleplerini, randevuları, iş akışını ve ödemeleri web, mobil ve API üzerinde bir araya getiren servis yönetimi uygulaması.</p>
-      <p><a href="https://islik-cloud.vercel.app/">Uygulamayı aç ↗</a></p>
+      <p><a href="https://islik-cloud.vercel.app/">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/islik-cloud">Kaynak kod</a></p>
     </td>
   </tr>
   <tr>
