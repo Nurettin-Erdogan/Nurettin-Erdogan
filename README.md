@@ -51,4 +51,6 @@ Kurumsal yazılım süreçlerinde yazılım testleri, yetkilendirme akışları 
 **İstanbul Atlas Üniversitesi** · Bilgisayar Mühendisliği  
 2023–devam ediyor
 
-[CV](./assets/Nurettin_Erdogan_CV.pdf) · [E-posta](mailto:enurettin89@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nurettin-e-7b5508289/)
+### İletişim
+
+[📄 CV](./assets/Nurettin_Erdogan_CV.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/nurettin-e-7b5508289/) · [✉️ E-posta](mailto:enurettin89@gmail.com)
