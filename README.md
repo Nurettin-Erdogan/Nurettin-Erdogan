@@ -1,8 +1,10 @@
-# Nurettin Erdoğan
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Nurettin Erdoğan — Backend, AI/RAG ve uygulama güvenliği. Bilgisayar Mühendisliği öğrencisi, İstanbul." width="100%" />
+</p>
 
-**Bilgisayar Mühendisliği Öğrencisi · Full-Stack & Backend · AI/RAG**
+Canlıya alınmış, testleri ve CI süreçleri olan, ürün odaklı uygulamalar geliştiriyorum. Odak alanlarım **.NET backend**, **yapay zekâ uygulamaları** (RAG, LLM ajanları) ve **uygulama güvenliği**.
 
-Canlıya alınmış, test ve CI süreçleri bulunan ürün odaklı uygulamalar geliştiriyorum. Full-stack/backend, AI/RAG ve güvenlik odaklı projeler üzerinde çalışıyorum.
+> **English:** Computer engineering student in Istanbul, building production-minded .NET, AI/RAG and application security projects. Every featured project is live, tested in CI, and has an English summary in its README.
 
 ## Öne çıkan projeler
 
@@ -41,13 +43,42 @@ Canlıya alınmış, test ve CI süreçleri bulunan ürün odaklı uygulamalar g
   </tr>
 </table>
 
-### Teknolojiler
+## Projelerimde ortak olanlar
 
-**Backend & Data:** C# · ASP.NET Core · Node.js · PostgreSQL · SQL Server · Qdrant  
-**Frontend & Platform:** React · TypeScript · JavaScript · Docker · GitHub Actions · PWA  
-**AI:** RAG · Ollama · Gemini
+- **Canlıda çalışır.** Her projenin herkese açık bir canlı sürümü var; README'den tek tıkla denenebilir.
+- **Her değişiklik CI'dan geçer.** Test, lint ve derleme her PR'da çalışır; Dependabot bağımlılıkları güncel tutar, çoğu projede CodeQL güvenlik taraması var.
+- **Ölçerek geliştiririm.** Kalkan'ın kural motoru etiketli bir değerlendirme setinde doğruluk eşiğini geçmeden birleşmez; Ajan Kalkanı'nın CI'ı saldırı başarısı ve yanlış engelleme oranlarına eşik koyar.
+- **Sınırları açıkça yazarım.** SmartDocs AI, Kalkan ve Ajan Kalkanı'nın README'lerinde projenin neyi yapmadığı ve hangi koşullarda yanılabileceği ayrı bir bölümde anlatılır.
 
-### Deneyim ve eğitim
+## Diğer projeler
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://turkiye-hava-pwa.vercel.app"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/weather-app/main/docs/social-preview.jpg" alt="Türkiye Hava — il ve ilçeler için çevrimdışı PWA" width="100%" /></a>
+      <h4>Türkiye Hava</h4>
+      <p>Türkiye'nin il ve ilçeleri için hava tahmini. Konum doğrulaması, çevrimdışı son tahmin ve kurulabilir PWA.</p>
+      <p><sub>JavaScript · Open-Meteo · Service Worker · Playwright</sub></p>
+      <p><a href="https://turkiye-hava-pwa.vercel.app">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/weather-app">Kaynak kod</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://gorev-listesi-pwa.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/todo-app/main/docs/social-preview.jpg" alt="Görev Listesi — çevrimdışı, sade ve gizli" width="100%" /></a>
+      <h4>Görev Listesi</h4>
+      <p>Cihazda çalışan görev yöneticisi. Öncelik, son tarih, geri alma, sekmeler arası eşitleme ve çevrimdışı kullanım.</p>
+      <p><sub>JavaScript · PWA · Service Worker · Playwright</sub></p>
+      <p><a href="https://gorev-listesi-pwa.vercel.app/">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/todo-app">Kaynak kod</a></p>
+    </td>
+  </tr>
+</table>
+
+## Teknolojiler
+
+**Backend ve veri:** C# · ASP.NET Core · EF Core · Python · FastAPI · Node.js · Express · Prisma · PostgreSQL · SQL Server · SQLite · Qdrant  
+**Frontend ve mobil:** React · TypeScript · JavaScript · Vite · Tailwind CSS · Expo (React Native) · PWA  
+**Yapay zekâ:** RAG · LLM ajanları · Ollama · Gemini  
+**Test ve DevOps:** xUnit · pytest · Vitest · Playwright · Docker · GitHub Actions · CodeQL
+
+## Deneyim ve eğitim
 
 **Darphane ve Damga Matbaası Genel Müdürlüğü** · Bilgi Teknolojileri Stajyeri  
 Temmuz–Ağustos 2026
@@ -57,6 +88,6 @@ Kurumsal yazılım süreçlerinde yazılım testleri, yetkilendirme akışları 
 **İstanbul Atlas Üniversitesi** · Bilgisayar Mühendisliği  
 2023–devam ediyor
 
-### İletişim
+## İletişim
 
 [📄 CV](./assets/Nurettin_Erdogan_CV.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/nurettin-e-7b5508289/) · [✉️ E-posta](mailto:enurettin89@gmail.com)
