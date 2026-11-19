@@ -34,11 +34,11 @@ Canlıya alınmış, testleri ve CI süreçleri olan, ürün odaklı uygulamalar
       <p><a href="https://nurettin-erdogan.github.io/kalkan/">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/kalkan">Kaynak kod</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://ajan-kalkani.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/ajan-kalkani/main/src/ajan_kalkani/static/social-preview.png" alt="Ajan Kalkanı — yapay zekâ ajanları için güvenlik geçidi" width="100%" /></a>
-      <h3>Ajan Kalkanı</h3>
-      <p><strong>Geliştiriciler için yapay zekâ ajanı güvenlik geçidi.</strong> Ajanın araç çağrılarını çalışmadan önce yetki kurallarıyla denetler (varsayılan-ret); prompt injection senaryolarını korumasız ve korumalı modda yan yana karşılaştırır.</p>
-      <p><strong>Stack:</strong> Python · FastAPI · SQLite (hash zinciri) · GitHub Actions · CodeQL</p>
-      <p><a href="https://ajan-kalkani.vercel.app/">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/ajan-kalkani">Kaynak kod</a></p>
+      <a href="https://turkiye-hava-pwa.vercel.app"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/weather-app/main/docs/social-preview.jpg" alt="Türkiye Hava — il ve ilçeler için çevrimdışı PWA" width="100%" /></a>
+      <h3>Türkiye Hava</h3>
+      <p>Türkiye'nin il ve ilçeleri için hava tahmini. Konum doğrulaması, çevrimdışı son tahmin ve kurulabilir PWA.</p>
+      <p><strong>Stack:</strong> JavaScript · Open-Meteo · Service Worker · Playwright</p>
+      <p><a href="https://turkiye-hava-pwa.vercel.app">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/weather-app">Kaynak kod</a></p>
     </td>
   </tr>
 </table>
@@ -55,11 +55,11 @@ Canlıya alınmış, testleri ve CI süreçleri olan, ürün odaklı uygulamalar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://turkiye-hava-pwa.vercel.app"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/weather-app/main/docs/social-preview.jpg" alt="Türkiye Hava — il ve ilçeler için çevrimdışı PWA" width="100%" /></a>
-      <h4>Türkiye Hava</h4>
-      <p>Türkiye'nin il ve ilçeleri için hava tahmini. Konum doğrulaması, çevrimdışı son tahmin ve kurulabilir PWA.</p>
-      <p><sub>JavaScript · Open-Meteo · Service Worker · Playwright</sub></p>
-      <p><a href="https://turkiye-hava-pwa.vercel.app">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/weather-app">Kaynak kod</a></p>
+      <a href="https://ajan-kalkani.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/ajan-kalkani/main/src/ajan_kalkani/static/social-preview.png" alt="Ajan Kalkanı — yapay zekâ ajanları için güvenlik geçidi" width="100%" /></a>
+      <h4>Ajan Kalkanı</h4>
+      <p><strong>Geliştiriciler için yapay zekâ ajanı güvenlik geçidi.</strong> Ajanın araç çağrılarını çalışmadan önce yetki kurallarıyla denetler (varsayılan-ret); prompt injection senaryolarını korumasız ve korumalı modda yan yana karşılaştırır.</p>
+      <p><sub>Python · FastAPI · SQLite (hash zinciri) · GitHub Actions · CodeQL</sub></p>
+      <p><a href="https://ajan-kalkani.vercel.app/">Uygulamayı aç ↗</a> · <a href="https://github.com/Nurettin-Erdogan/ajan-kalkani">Kaynak kod</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://gorev-listesi-pwa.vercel.app/"><img src="https://raw.githubusercontent.com/Nurettin-Erdogan/todo-app/main/docs/social-preview.jpg" alt="Görev Listesi — çevrimdışı, sade ve gizli" width="100%" /></a>
